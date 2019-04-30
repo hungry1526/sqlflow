@@ -53,8 +53,5 @@ Lastly, you may clean up local and remote feature branch using below command. No
 
 ```bash
 git branch -D new_feature_branch_issue_000
-git checkout develop
-git pull
-git branch -D new_feature_branch_issue_000
-git push origin :new_feature_branch_issue_000
+git push upstream --delete new_feature_branch_issue_000
 ```
