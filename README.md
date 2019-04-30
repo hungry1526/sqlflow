@@ -31,6 +31,7 @@ None of the existing solution solves our pain point, instead we want it to be fu
 - [Build from source code](doc/build.md).
 - [The walkthrough of the source code](doc/walkthrough.md)
 - [The choice of parser generator](doc/sql_parser.md)
+- [Git Workflow in SQLFlow project](doc/git_workflow.md)
 
 ## Feedback
 
